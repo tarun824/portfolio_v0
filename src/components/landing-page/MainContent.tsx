@@ -2,9 +2,9 @@ import React from "react";
 import bg from "../../assets/images/security-team.jpg";
 import Image from "next/image";
 import ButtonFullRounded from "../ButtonFullRounded";
+import DownloadResumeOnClick from "@/utils/DownloadResumeOnClick";
 
 function MainContent() {
-  function downloadResumeButton() {}
   return (
     //     <div className="">
     //       <Image
@@ -20,6 +20,7 @@ function MainContent() {
         alt="Landing Page Background"
         width={600}
         height={500}
+        priority={true}
         className="absolute w-screen h-screen  overflow-auto justify-center opacity-70"
       />
       <div className=" flex flex-col relative z-10 items-center  justify-center h-full">
@@ -50,7 +51,7 @@ function MainContent() {
         </p>
         <ButtonFullRounded
           text="Download Resume"
-          onClick={downloadResumeButton}
+          onClick={DownloadResumeOnClick}
         />
       </div>
     </div>

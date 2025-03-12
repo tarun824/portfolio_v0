@@ -4,17 +4,20 @@ interface NavbarButtonProps {
   text: string;
   setSelctedItem: (item: string) => void;
   selectedItem: string;
+  onClick: Function;
 }
 
 function NavbarButton({
   text,
   setSelctedItem,
   selectedItem,
+  onClick,
 }: NavbarButtonProps) {
   return (
     <a
       onClick={() => {
         setSelctedItem(text.toLowerCase());
+        onClick();
       }}
       className={`${
         selectedItem == text.toLowerCase()
