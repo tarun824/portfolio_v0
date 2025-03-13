@@ -14,13 +14,13 @@ function ExperienceCard({
 }: ExperienceInterface) {
   return (
     <div className="flex flex-col  rounded-3xl border-2 my-3 border-[#2B2B2B] bg-linear-to-br from-[#2d2d2d] p-5">
-      <div className="flex justify-between ">
+      <div className="flex flex-col sm:flex-row sm:justify-between ">
         <ExperienceCompany
           companyName={companyName}
           companyProfileImgLocation={companyProfileImgLocation}
           workLocation={workLocation}
         />
-        <div className="flex  bg-[#ffe7a9] rounded-xl px-3 py-1 h-min">
+        <div className="flex mt-2 sm:mt-0 bg-[#ffe7a9] rounded-xl px-3 py-1 h-min">
           <HiMiniCalendarDays className="text-black mt-0.5 h-5 w-5" />
           <p className="text-sm font-bold font-inter-sans mt-0.5 pl-1.5 text-black">
             {/* Nov 2024 – Feb 2025 */}

@@ -20,7 +20,7 @@ function Navbar({
     refs[section]?.current?.scrollIntoView({ behavior: "smooth" });
   };
   return (
-    <div className="flex justify-center my-7">
+    <div className="hidden md:flex justify-center my-7">
       <NavbarButton
         text="Home"
         setSelctedItem={setSelctedItem}

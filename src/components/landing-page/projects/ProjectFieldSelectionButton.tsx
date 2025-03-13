@@ -15,7 +15,7 @@ function ProjectFieldSelectionButton({
         isSelected == text.toLowerCase()
           ? "bg-[#484E53] text-white"
           : "text-[#A9A9A9]"
-      } rounded-3xl w-40 py-3 border border-[#484E53] cursor-pointer  `}
+      } rounded-3xl w-40 py-3 mx-2 border border-[#484E53] cursor-pointer  `}
       onClick={() => {
         setSelctedItem(text.toLowerCase());
       }}

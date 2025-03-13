@@ -9,13 +9,13 @@ function SkillSingleSkillBox({
 }) {
   return (
     <div
-      onClick={() => {
-        let data = {
-          languageName: programmingLanguage,
-          link: linkForLanguageLogo,
-        };
-        navigator.clipboard.writeText(JSON.stringify(data));
-      }}
+      // onClick={() => {
+      //   let data = {
+      //     languageName: programmingLanguage,
+      //     link: linkForLanguageLogo,
+      //   };
+      //   navigator.clipboard.writeText(JSON.stringify(data));
+      // }}
       className="flex flex-col h-28 w-28 justify-center items-center bg-[rgba(0,0,22,0.9)] rounded-xl "
     >
       <img

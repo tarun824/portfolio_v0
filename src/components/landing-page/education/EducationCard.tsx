@@ -14,7 +14,7 @@ function EducationCard({
   };
 }) {
   return (
-    <div className="flex flex-col mx-4 w-[45%] rounded-3xl border-2 border-[#2B2B2B] bg-linear-to-br from-[#2d2d2d] p-5">
+    <div className="flex flex-col mx-4 mb-4 lg:mb-0  lg:w-[45%] rounded-3xl border-2 border-[#2B2B2B] bg-linear-to-br from-[#2d2d2d] p-5">
       <div className="flex justify-end mb-2">
         <div className="flex  bg-black rounded-xl px-3 py-1">
           <IoCalendar className="text-[#ffb703] mt-0.5" />

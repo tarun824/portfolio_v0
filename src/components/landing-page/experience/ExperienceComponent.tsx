@@ -20,14 +20,14 @@ function ExperienceComponent() {
     {
       role: "Intern- Flutter Developer",
       workLocation: "Bangalore, Karnataka, India ",
-      companyName: "CSTech Infosolutions Private Limited",
+      companyName: "CSTech Info solutions Pvt. Ltd.",
       duration: "Mar 2024 - Oct 2024",
       companyProfileImgLocation: "/images/landing-page/cs-tech-profile.png",
       details: [
         "Built Mobile App called Calley using Flutter & Dart both for Android and IOS. Added advance feature like In-App Purchase, Push Notification, Deep Linking.",
         "Wrote Swift code and connected to Flutter using Platform channel,Back ground services.Deployed on both Apple Store and Play Store. Handled deployment rejection on both.",
-        "Apple Store : https://apps.apple.com/in/app/calley/id1222888599",
-        "Play Store : https://play.google.com/store/apps/details?id=com.getcalley.app.calley",
+        "Apple Store : https://apps.apple.com/in/app/ calley/id1222888599",
+        "Play Store : https://play.google.com/store/ apps/details?id=com.getcalley.app.calley",
       ],
     },
     {
@@ -45,7 +45,7 @@ function ExperienceComponent() {
     },
   ];
   return (
-    <div className="flex flex-col mx-20">
+    <div className="flex flex-col mx-4 md:mx-20">
       {Experiences.map((singleExperience) => {
         return (
           <ExperienceCard

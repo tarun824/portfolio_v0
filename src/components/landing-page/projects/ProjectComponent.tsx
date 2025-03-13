@@ -456,7 +456,7 @@ function ProjectComponent() {
   const [projectFieldSelected, setProjectFieldSelected] = useState("all");
   const allSkillsName = ["All", "AI ML", "Full Stack - Web", "Mobile"];
   return (
-    <div className="flex flex-col mx-20 ">
+    <div className="flex flex-col mx-2  sm:mx-20 ">
       {/* Field selection area */}
       <div className="flex justify-evenly mx-10">
         {allSkillsName.map((data) => {
@@ -472,7 +472,7 @@ function ProjectComponent() {
         })}
       </div>
       {/* projects based on selection */}
-      <div className="grid grid-cols-1 mt-8 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-2  ">
+      <div className="grid grid-cols-1 mt-8 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2  ">
         {(allProjects as any)[projectFieldSelected].map(
           (project: ProjectInterface) => {
             return <ProjectSingleCard key={project.title} project={project} />;

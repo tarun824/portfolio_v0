@@ -17,7 +17,7 @@ function EducationComponent() {
     },
   ];
   return (
-    <div className="flex mx-20 justify-evenly lg:flex-row flex-col">
+    <div className="flex mx-4 md:mx-20 justify-evenly lg:flex-row flex-col">
       <EducationCard education={allEducationData[0]} />
       <EducationCard education={allEducationData[1]} />
     </div>
