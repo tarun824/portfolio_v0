@@ -90,7 +90,7 @@ Projects */}
           <IoMdMail className="text-[#ffb703] my-2 rounded-full w-8 h-8 p-[6px] bg-black" />
           <p className="text-sm font-inter-sans pl-1.5 ">
             tarun.rs82004@gmail.com
-          </p>``
+          </p>
         </div>
         <div className="flex items-center">
           <FaLocationDot className="text-[#ffb703] rounded-full w-8 h-8 p-[7px] bg-black" />

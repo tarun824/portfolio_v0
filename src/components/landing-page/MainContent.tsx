@@ -45,10 +45,17 @@ function MainContent() {
           <p className="text-md md:text-2xl  ">🧑‍💻</p>
         </div>
         <p className="text-center mx-4 lg:mx-40 mb-8 font-poppins font-medium text-base md:text-2xl ">
-          As a passionate data scientist, with expertise in machine learning,
+          As an aspiring engineer with a strong foundation in cutting-edge
+          technologies, I engage in AI, ML and Full-stack development projects,
+          while exploring Generative AI for impactful solutions.
+          {/* As an aspiring engineer with a strong foundation in cutting-edge
+          technologies, I am actively engaged in Machine Learning, Artificial
+          Intelligence and Full-stack development projects. I am also exploring
+          the emerging field of Generative AI to drive impactful solutions. */}
+          {/* As a passionate data scientist, with expertise in machine learning,
           AI, and data analytics, I thrive on the challenges of exploring
           complex data landscapes and uncovering meaningful patterns that drive
-          innovation
+          innovation */}
         </p>
         <ButtonFullRounded
           text="Download Resume"
