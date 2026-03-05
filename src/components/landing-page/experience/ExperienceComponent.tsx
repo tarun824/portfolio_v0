@@ -16,7 +16,7 @@ function ExperienceComponent() {
     "Engineered high-frequency data pipelines using Agenda.js and Cron jobs to automate medical alerts and sync 70,000+ records per batch; optimized MongoDB with Compound Indexing for sub-second query latency.",
     "Solved critical race conditions between Flutter frontend and Kotlin background services via UUID-based Shared Session Ledger, ensuring 100% data integrity for real-time call-tracking and telephony metrics."
       ],
-    }
+    },
     {
       companyName: "Havric AI",
       companyProfileImgLocation: "/images/landing-page/havric-ai-profile.png",
