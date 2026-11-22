@@ -44,11 +44,11 @@ function MainContent() {
           <p className="text-md md:text-2xl  ">🧑‍💻</p>
         </div>
         <p className="text-center mx-4 lg:mx-40 mb-8 font-poppins font-medium text-base md:text-2xl ">
-          Software Engineer at Prodoc AI, building production multi-agent AI
-          systems, RAG pipelines and MCP tool servers, plus the web and mobile
-          products around them for healthcare enterprises. I own features end
-          to end, from LLM and backend logic to React and Flutter front ends,
-          deployment and go-live support.
+          Software Engineer at Prodoc AI, building production agentic and
+          multi-agent AI systems, RAG pipelines with vector search, and MCP tool
+          servers, plus the web and mobile products around them for healthcare
+          enterprises. I own features end to end, from LLM and backend logic to
+          React and Flutter front ends, observability and go-live support.
           {/* As an aspiring engineer with a strong foundation in cutting-edge
           technologies, I am actively engaged in Machine Learning, Artificial
           Intelligence and Full-stack development projects. I am also exploring

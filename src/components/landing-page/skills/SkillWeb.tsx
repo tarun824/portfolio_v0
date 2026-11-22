@@ -78,6 +78,18 @@ const webSkillsData = [
     link: "https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000",
   },
   {
+    languageName: "FastAPI",
+    link: "https://cdn.simpleicons.org/fastapi/4FC3F7",
+  },
+  {
+    languageName: "Prometheus",
+    link: "https://cdn.simpleicons.org/prometheus/4FC3F7",
+  },
+  {
+    languageName: "Datadog",
+    link: "https://cdn.simpleicons.org/datadog/4FC3F7",
+  },
+  {
     languageName: "NGINX",
     link: "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nginx/nginx-original.svg",
   },
