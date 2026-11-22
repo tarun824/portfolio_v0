@@ -6,13 +6,7 @@ import { IoShareSocialSharp } from "react-icons/io5";
 
 function SocialMediaLinks() {
   return (
-    <div
-      className="flex items-center cursor-pointer mt-3"
-      onClick={() => {
-        const phoneNumber = "+91-7676286822";
-        window.location.href = `tel:${phoneNumber}`;
-      }}
-    >
+    <div className="flex items-center cursor-pointer mt-3">
       <FaLinkedin
         onClick={() => {
           window.open("https://www.linkedin.com/in/tarun-rs/");

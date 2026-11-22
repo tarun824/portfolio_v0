@@ -1,6 +1,5 @@
 import React from "react";
 import FooterQuickLinkButton from "./FooterQuickLinkButton";
-import { IoCall } from "react-icons/io5";
 import { IoMdMail } from "react-icons/io";
 import { FaLocationDot } from "react-icons/fa6";
 
@@ -70,16 +69,6 @@ Projects */}
       <div className="w-64">
         <p className="text-2xl mb-6 font-inter-sans">Contact Info</p>
 
-        <div
-          className="flex items-center cursor-pointer"
-          onClick={() => {
-            const phoneNumber = "+91-7676286822";
-            window.location.href = `tel:${phoneNumber}`;
-          }}
-        >
-          <IoCall className="text-[#ffb703]  rounded-full w-8 h-8 p-[6px] bg-black" />
-          <p className="text-sm font-inter-sans pl-1.5 ">+91-7676286822</p>
-        </div>
         <div
           className="flex items-center cursor-pointer"
           onClick={() => {
