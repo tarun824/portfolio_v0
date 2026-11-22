@@ -4,31 +4,31 @@ import SkillSingleSkillBox from "./SkillSingleSkillBox";
 const mobileSkillsData = [
   {
     languageName: "Flutter",
-    link: "https://img.icons8.com/?size=100&id=pCvIfmctRaY8&format=png&color=000000",
+    link: "/images/skills/flutter.png",
   },
   {
     languageName: "Dart",
-    link: "https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000",
+    link: "/images/skills/dart.png",
   },
   {
     languageName: "Kotlin",
-    link: "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/kotlin/kotlin-original.svg",
+    link: "/images/skills/kotlin.svg",
   },
   {
     languageName: "Java",
-    link: "https://img.icons8.com/?size=100&id=13679&format=png&color=000000",
+    link: "/images/skills/java.png",
   },
   {
     languageName: "Swift",
-    link: "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/swift/swift-original.svg",
+    link: "/images/skills/swift.svg",
   },
   {
     languageName: "Firebase",
-    link: "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/firebase/firebase-plain.svg",
+    link: "/images/skills/firebase.svg",
   },
   {
     languageName: "Gradle",
-    link: "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/gradle/gradle-original.svg",
+    link: "/images/skills/gradle.svg",
   },
 ];
 function SkillMobile() {

@@ -17,7 +17,7 @@ function ProjectSingleCard(project: { project: ProjectInterface }) {
 
       <div className="flex items-center">
         <img
-          src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"
+          src="/images/skills/github-mark.png"
           // "/images/landing-page/havric-ai-profile.png"
           className="h-[55px] w-[55px] bg-white rounded-full"
         />

@@ -4,98 +4,98 @@ import SkillSingleSkillBox from "./SkillSingleSkillBox";
 const webSkillsData = [
   {
     languageName: "JavaScript",
-    link: "https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000",
+    link: "/images/skills/javascript.png",
   },
   {
     languageName: "TypeScript",
-    link: "https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000",
+    link: "/images/skills/typescript.png",
   },
   {
     languageName: "NodeJS",
-    link: "https://img.icons8.com/?size=100&id=54087&format=png&color=000000",
+    link: "/images/skills/nodejs.png",
   },
   {
     languageName: "ExpressJS",
-    link: "https://img.icons8.com/?size=100&id=9Gfx4Dfxl0JK&format=png&color=000000",
+    link: "/images/skills/expressjs.png",
   },
   {
     languageName: "ReactJS",
-    link: "https://img.icons8.com/?size=100&id=123603&format=png&color=000000",
+    link: "/images/skills/reactjs.png",
   },
   {
     languageName: "Next.js",
-    link: "https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000",
+    link: "/images/skills/nextjs.png",
   },
   {
     languageName: "TailwindCSS",
-    link: "https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000",
+    link: "/images/skills/tailwindcss.png",
   },
   {
     languageName: "Socket.IO",
-    link: "https://e7.pngegg.com/pngimages/307/948/png-clipart-socket-io-node-js-javascript-network-socket-websocket-electrical-cable-angle-triangle.png",
+    link: "/images/skills/socket-io.png",
   },
   {
     languageName: "Flask",
-    link: "https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000",
+    link: "/images/skills/flask.png",
   },
   {
     languageName: "Prisma",
-    link: "https://img.icons8.com/?size=100&id=YKKmRFS8Utmm&format=png&color=000000",
+    link: "/images/skills/prisma.png",
   },
 
   {
     languageName: "MySQL",
-    link: "https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000",
+    link: "/images/skills/mysql.png",
   },
   {
     languageName: "PostgreSQL",
-    link: "https://img.icons8.com/?size=100&id=38561&format=png&color=000000",
+    link: "/images/skills/postgresql.png",
   },
   {
     languageName: "MongoDB",
-    link: "https://img.icons8.com/?size=100&id=74402&format=png&color=000000",
+    link: "/images/skills/mongodb.png",
   },
 
   {
     languageName: "Firestore",
-    link: "https://img.icons8.com/?size=100&id=87330&format=png&color=000000",
+    link: "/images/skills/firestore.png",
   },
   {
     languageName: "Docker",
-    link: "https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000",
+    link: "/images/skills/docker.png",
   },
 
   {
     languageName: "Redis",
-    link: "https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000",
+    link: "/images/skills/redis.png",
   },
   {
     languageName: "Grafana",
-    link: "https://img.icons8.com/?size=100&id=9uVrNMu3Zx1K&format=png&color=000000",
+    link: "/images/skills/grafana.png",
   },
   {
     languageName: "Redux",
-    link: "https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000",
+    link: "/images/skills/redux.png",
   },
   {
     languageName: "FastAPI",
-    link: "https://cdn.simpleicons.org/fastapi/4FC3F7",
+    link: "/images/skills/fastapi.svg",
   },
   {
     languageName: "Prometheus",
-    link: "https://cdn.simpleicons.org/prometheus/4FC3F7",
+    link: "/images/skills/prometheus.svg",
   },
   {
     languageName: "Datadog",
-    link: "https://cdn.simpleicons.org/datadog/4FC3F7",
+    link: "/images/skills/datadog.svg",
   },
   {
     languageName: "NGINX",
-    link: "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nginx/nginx-original.svg",
+    link: "/images/skills/nginx.svg",
   },
   {
     languageName: "Azure",
-    link: "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/azure/azure-original.svg",
+    link: "/images/skills/azure.svg",
   },
 ];
 

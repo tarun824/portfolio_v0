@@ -1,0 +1,28 @@
+# Tarun R S
+
+> Software Engineer with nearly 2 years of experience building production AI agents, RAG and MCP systems for healthcare, with full-stack web and mobile depth. Works at Prodoc AI in Bangalore, India.
+
+## Links
+
+- [Portfolio](https://tarun-r-s-portfolio.vercel.app): Projects, experience, skills and education
+- [LinkedIn](https://www.linkedin.com/in/tarun-rs/): Professional profile
+- [GitHub](https://github.com/tarun824): Code and projects
+- [Resume](https://tarun-r-s-portfolio.vercel.app/documents/Tarun_R_S_Resume.pdf): PDF resume
+
+## Skills
+
+- AI: multi-agent systems, retrieval-augmented generation (RAG), vector search, Model Context Protocol (MCP), LLM orchestration, function calling, LLM evaluation
+- Mobile: Flutter, Kotlin
+- Web and backend: React, TypeScript, Node.js, Python, microservices
+
+## Experience
+
+- Software Engineer, Prodoc AI, Bangalore (Mar 2025 - Present): owns a production multi-agent AI platform for healthcare, including agent orchestration, RAG, tool calling, memory and human-in-the-loop escalation. Also builds an MCP tool server, an LLM evaluation suite, mobile apps and messaging platforms.
+- AI/ML Intern, Havric AI, Bangalore (Nov 2024 - Feb 2025): built a scalable conversational AI chatbot.
+- Flutter Developer Intern, CSTech Info Solutions, Bangalore (Mar 2024 - Oct 2024): built a cross-platform mobile app with Flutter for Android and iOS.
+- Developer Executive, AIE Technologies (Sep 2023 - Nov 2023): built an end-to-end application with a Flask and MongoDB backend.
+
+## Education
+
+- Global Academy of Technology
+- Indian Institute of Technology Ropar
