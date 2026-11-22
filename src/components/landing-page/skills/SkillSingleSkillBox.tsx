@@ -21,7 +21,11 @@ function SkillSingleSkillBox({
       <img
         src={linkForLanguageLogo}
         // "https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000"
-        alt={`${programmingLanguage} Image`}
+        alt={`${programmingLanguage} logo`}
+        width={56}
+        height={56}
+        loading="lazy"
+        decoding="async"
         className=" w-14 h-14 "
       />{" "}
       <p className="font-semibold font-inter-sans mt-2">

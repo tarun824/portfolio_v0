@@ -56,7 +56,7 @@ const aiMlSkillsData = [
   },
   {
     languageName: "Ollama",
-    link: "https://cdn.brandfetch.io/idrRDmZ2_F/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1740053459943",
+    link: "/images/skills/ollama.svg",
   },
   {
     languageName: "Llama 3.2",

@@ -13,6 +13,11 @@ function ProjectLanguageCard({
         <img
           src={languageLink}
           // "/images/landing-page/havric-ai-profile.png"
+          alt={`${language} logo`}
+          width={30}
+          height={30}
+          loading="lazy"
+          decoding="async"
           className="h-[30px] w-[30px]  rounded-full"
         />
       ) : (

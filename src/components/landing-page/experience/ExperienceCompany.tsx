@@ -15,6 +15,11 @@ function ExperienceCompany({
       <img
         src={companyProfileImgLocation}
         // "/images/landing-page/havric-ai-profile.png"
+        alt={`${companyName} logo`}
+        width={55}
+        height={55}
+        loading="lazy"
+        decoding="async"
         className="h-[55px] w-[55px] bg-white rounded-full "
       />
       <div className="flex flex-col mr-2 px-1.5 my-0.5 ">

@@ -38,6 +38,11 @@ function ExperienceCard({
       <div className="flex items-center my-2">
         <img
           src="/images/landing-page/profile-image.jpg"
+          alt="Tarun R S"
+          width={40}
+          height={40}
+          loading="lazy"
+          decoding="async"
           className="rounded-full w-10 h-10 "
         />
         <p className="font-semibold font-inter-sans text-[20px] pl-2">

@@ -19,6 +19,11 @@ function ProjectSingleCard(project: { project: ProjectInterface }) {
         <img
           src="/images/skills/github-mark.png"
           // "/images/landing-page/havric-ai-profile.png"
+          alt="GitHub"
+          width={55}
+          height={55}
+          loading="lazy"
+          decoding="async"
           className="h-[55px] w-[55px] bg-white rounded-full"
         />
         <p className="font-bold font-inter-sans text-xl ml-2">
