@@ -11,10 +11,12 @@ function ExperienceComponent() {
   companyProfileImgLocation: "/images/landing-page/prodoc-logo.png",
   workLocation: "Bangalore, Karnataka, India  ",
   details: [
-    "Engineered intelligent AI agents powered by Model Context Protocol (MCP) framework; built specialized tools connecting LLMs with enterprise databases and external APIs for seamless real-time data access and autonomous task execution.",
-    "Architected Azure VM production environments with NGINX reverse proxying and SSL termination; implemented Zero-Trust session framework via Redis with real-time revocation and RBAC for multi-tenant security.",
-    "Engineered high-frequency data pipelines using Agenda.js and Cron jobs to automate medical alerts and sync 70,000+ records per batch; optimized MongoDB with Compound Indexing for sub-second query latency.",
-    "Solved critical race conditions between Flutter frontend and Kotlin background services via UUID-based Shared Session Ledger, ensuring 100% data integrity for real-time call-tracking and telephony metrics."
+    "Own a production multi-agent AI platform for healthcare: an LLM orchestrator with specialised sub-agents (doctor, appointment, reminder), long-term patient memory, rolling summaries, RAG, tool calling and human-in-the-loop escalation over WhatsApp.",
+    "Built an MCP tool server (70+ tools across appointments, patients, orders and referrals) with embedding-based semantic search for RAG; agents connect to multiple MCP servers and call tools in parallel to act on live business systems.",
+    "Reduced LLM cost and latency with prompt caching, cache-friendly prompt ordering, context trimming and lower-cost models for background jobs; added LLM observability with Grafana dashboards, an LLM-as-a-judge test harness, and an Agent Generator that lets Operations launch customer agents without engineering.",
+    "Built core features of a Flutter and native Kotlin Android app for tele-calling teams: incoming-call overlay with patient context, FCM push, a watchdog that auto-recovers the background service, and OEM-aware call-recording detection; fixed Flutter-Kotlin race conditions with a UUID-based session ledger.",
+    "Own WhatsApp Business messaging infrastructure (provider integrations, templates, broadcast scheduler, webhooks, retries) plus e-commerce logistics, hospital-system and telephony integrations; built a configurable workflow engine for a healthcare claims platform and Agenda.js pipelines syncing 70,000+ records per batch.",
+    "Hardened services after a VAPT (CSRF-protected cookie sessions, Redis-backed revocation and RBAC, rate limiting, ownership checks) and set up the dev VM with NGINX, SSL, PM2 and Redis so Operations and QA can validate feature branches before go-live.",
       ],
     },
     {

@@ -77,6 +77,14 @@ const webSkillsData = [
     languageName: "Redux",
     link: "https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000",
   },
+  {
+    languageName: "NGINX",
+    link: "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nginx/nginx-original.svg",
+  },
+  {
+    languageName: "Azure",
+    link: "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/azure/azure-original.svg",
+  },
 ];
 
 function SkillMWeb() {

@@ -34,6 +34,14 @@ const aiMlSkillsData = [
     languageName: "Scikit learn",
     link: "https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg",
   },
+  {
+    languageName: "MCP",
+    link: "https://cdn.simpleicons.org/modelcontextprotocol/4FC3F7",
+  },
+  {
+    languageName: "LangChain",
+    link: "https://cdn.simpleicons.org/langchain/4FC3F7",
+  },
 ];
 function SkillAiMl() {
   return (

@@ -11,12 +11,24 @@ const mobileSkillsData = [
     link: "https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000",
   },
   {
+    languageName: "Kotlin",
+    link: "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/kotlin/kotlin-original.svg",
+  },
+  {
     languageName: "Java",
     link: "https://img.icons8.com/?size=100&id=13679&format=png&color=000000",
   },
   {
+    languageName: "Swift",
+    link: "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/swift/swift-original.svg",
+  },
+  {
+    languageName: "Firebase",
+    link: "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/firebase/firebase-plain.svg",
+  },
+  {
     languageName: "Gradle",
-    link: "https://private-user-images.githubusercontent.com/95350584/252301866-80efaa46-a449-467d-865d-79ae62d8d6ce.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE3OTcxMzcsIm5iZiI6MTc0MTc5NjgzNywicGF0aCI6Ii85NTM1MDU4NC8yNTIzMDE4NjYtODBlZmFhNDYtYTQ0OS00NjdkLTg2NWQtNzlhZTYyZDhkNmNlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzEyVDE2MjcxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQwZjY1MzRhOGMwZWU5ZWY5OThlNTk2N2VkODNmYjhjNDg3Mzg3YWNmNTM1NDMwZDFjOTUxYWZjM2NjY2ViY2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.lcclH6wiuJ683DkMsOhrIznsTaxoHnEiZgkXzu-VWxY",
+    link: "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/gradle/gradle-original.svg",
   },
 ];
 function SkillMobile() {

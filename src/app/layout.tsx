@@ -12,8 +12,9 @@ import "./globals.css";
 import { NextFontWithVariable } from "next/dist/compiled/@next/font";
 
 export const metadata: Metadata = {
-  title: "Tarun R S Portfolio",
-  description: "Welcome to Tarun R S Portfolio",
+  title: "Tarun R S | Software Engineer - AI Agents, Full-Stack & Mobile",
+  description:
+    "Portfolio of Tarun R S, Software Engineer at Prodoc AI. Production AI agents, MCP tool servers, full-stack web and Flutter mobile apps.",
 };
 
 const geistSans = Geist({
